@@ -1,0 +1,7 @@
+name: dakar
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - psi4
